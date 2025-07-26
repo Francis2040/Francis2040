@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <!--
-**Francis2040/Francis2040** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Francis2040/Francis2040** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile**
 
 Here are some ideas to get you started:
 
@@ -10,5 +10,3 @@ Here are some ideas to get you started:
 feb. 2025 - jul. 2025
 - ❤️Me encanta seguir obteniendo conocimientos y practicas sobre la Automatizacion de Pruebas.
 - 📫 How to reach me: [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/francis-anahole)
-
-
