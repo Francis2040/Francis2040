@@ -1,9 +1,5 @@
 ## Hi there 👋
 
-**Francis2040/Francis2040** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 Aspirante QA Engineer, recién graduada del Bootcamp de tecnología en Triplete, con formación práctica en herramientas como Postman, JIRA, SQL y un interés destacado en Python. Durante el curso, diseñé y ejecuté casos de prueba, identifiqué errores críticos y comprendí el comportamiento de las aplicaciones.  
 - 🌱 Certificada en Quality Assurance Engineering e Ingeniería de software (feb. 2025 - jul. 2025)  
 - ❤️ Me encanta seguir obteniendo conocimientos y prácticas sobre la Automatización de Pruebas.  
