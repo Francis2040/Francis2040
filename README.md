@@ -1,4 +1,4 @@
-![Banner de perfil](banner.png)
+![Banner de perfil](images/banner.png)
 ## Hi there 👋
 
 - 🔭 Aspirante QA Engineer, recién graduada del Bootcamp de tecnología en Triplete, con formación práctica en herramientas como Postman, JIRA, SQL y un interés destacado en Python. Durante el curso, diseñé y ejecuté casos de prueba, identifiqué errores críticos y comprendí el comportamiento de las aplicaciones.  
