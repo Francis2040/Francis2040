@@ -1,4 +1,4 @@
-![Descripción del banner](URL_DE_LA_IMAGEN)https://www.canva.com/design/DAGuYPnMQhk/W3TZtmk60_de8NL6QEzYSQ/edit?utm_content=DAGuYPnMQhk&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+
 ## Hi there 👋
 
 - 🔭 Aspirante QA Engineer, recién graduada del Bootcamp de tecnología en Triplete, con formación práctica en herramientas como Postman, JIRA, SQL y un interés destacado en Python. Durante el curso, diseñé y ejecuté casos de prueba, identifiqué errores críticos y comprendí el comportamiento de las aplicaciones.  
