@@ -39,3 +39,13 @@
 - Automatización de pruebas  
 - Reporte y seguimiento de bugs
 ---
+---
+
+### :bar_chart: Mis estadísticas
+---
+
+### 📈 Estadísticas de GitHub
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Francis2040&theme=dark&background=000000)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Francis2040&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
