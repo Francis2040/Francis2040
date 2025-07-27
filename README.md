@@ -1,4 +1,6 @@
-![Banner de Francis Anahole](https://private-user-images.githubusercontent.com/212638421/471242427-58828440-774c-4292-8f2d-1e8c07ac7bea.png)
+<div id="header" align="center">
+  <img src="https://github.com/Francis2040/Francis2040/blob/main/BannerGithub.png?raw=true" width="1000" alt="Banner de Francis Anahole" />
+</div>
 
 ## Hi there 👋
 
