@@ -8,12 +8,15 @@
 
 ## 📌 Sobre mí :
 
-Apasionada de la tecnología y disfrutando de una transición laboral al mundo QA y desarrollo 👩‍💻  
-🧪 Actualmente estoy aprendiendo herramientas de testing y automatización para asumir nuevos retos 💪  
-📚 Estoy estudiando y practicando `Python`, `SQL` y herramientas de testing como Selenium y Postman  
-❤️ Me encanta descubrir nuevas formas de automatizar procesos y hacer pruebas efectivas  
-📬 ¿Quieres contactar conmigo? [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/francis-anahole)
+**Francis2040/Francis2040**
 
+Here are some ideas to get you started:
+
+- 🔭 Aspirante QA Engineer, recién graduada del Bootcamp de tecnología en Triplete, con formación práctica en herramientas como Postman, JIRA, SQL y un interés destacado en Python. Durante el curso, diseñé y ejecuté casos de prueba, identifiqué errores críticos y comprendí el comportamiento de las aplicaciones.  
+- 🌱 Certificada en Quality Assurance Engineering e Ingeniería de software (feb. 2025 - jul. 2025)  
+- ❤️ Me encanta seguir obteniendo conocimientos y prácticas sobre la Automatización de Pruebas.  
+- 📫 How to reach me:  
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/francis-anahole)
 ---
 
 ## 🛠️ Lenguajes y herramientas :
