@@ -1,11 +1,3 @@
-# ![Banner](assets/banner.png)
-
-<div align="center">
-
-![Francis Anahole](assets/mi_avatar.png)
-
-## Francis Anahole | QA Engineer |
-
 </div>
 ![Banner de perfil](banner.png/1.png)
 <p align="center">
