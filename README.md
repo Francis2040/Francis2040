@@ -1,3 +1,16 @@
+# ![Banner](assets/banner.png)
+
+<div align="center">
+
+![Francis Anahole](assets/mi_avatar.png)
+
+## Francis Anahole | QA Manual | Data Analyst Jr
+
+*"QA: donde los errores se convierten en mejoras"*
+
+[LinkedIn](https://www.linkedin.com/) • [GitHub](https://github.com/) • [Email](mailto:anaholef@gmail.com) • [CV](#)
+
+</div>
 ![Banner de perfil](banner.png/1.png)
 <p align="center">
   <a href="https://www.linkedin.com/in/francis-anahole/">
