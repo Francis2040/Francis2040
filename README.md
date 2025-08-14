@@ -9,7 +9,9 @@
 <a href="https://github.com/FrancisAnahole">
   <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
-<h1 align="center">Hola soy Francis. ¡Encantada de conocerte! 👋</h1>
+<h1 align="center">Soy Francis Anahole, QA Engineer en transición desde el área administrativa, con enfoque en pruebas manuales y conocimientos en Selenium, Pytest, SQL y Postman.
+Sé diseñar y ejecutar casos de prueba, detectar defectos y comunicar hallazgos de manera clara a equipos técnicos y no técnicos.
+Puedo ayudar a empresas y equipos de desarrollo a mejorar la calidad de sus aplicaciones, asegurando que cumplan con los requisitos y ofrezcan una experiencia confiable al usuario. 👋</h1>
 
 ## 📌 Sobre mí :
 - 🔭 Aspirante QA Engineer, recién graduada del Bootcamp de tecnología en Triplete, con formación práctica en herramientas como Postman, JIRA, SQL y un interés destacado en Python. Durante el curso, diseñé y ejecuté casos de prueba, identifiqué errores críticos y comprendí el comportamiento de las aplicaciones.  
