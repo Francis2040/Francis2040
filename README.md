@@ -2,14 +2,13 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/francis-anahole/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-    <a href="mailto:anaholef@gmail.com">
-      </a>
-  <img src="https://img.shields.io/badge/Email-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Email Button"/>
-  </a>
-  <a href="https://github.com/tuusuario" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub Button"/>
+  <a href="mailto:anaholef@gmail.com">
+  <img src="https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
-</p>
+
+<a href="https://github.com/FrancisAnahole">
+  <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
 <h1 align="center">Hola soy Francis. ¡Encantada de conocerte! 👋</h1>
 
 ## 📌 Sobre mí :
