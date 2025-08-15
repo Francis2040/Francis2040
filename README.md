@@ -7,9 +7,6 @@
 
 ---
 
-Soy QA Engineer con experiencia en **pruebas manuales y automatizadas**, manejo de herramientas como **Selenium, Postman, Jira y SQL**, y enfoque en la calidad del software.  
-Me apasiona encontrar errores y transformarlos en **oportunidades de mejora**.
-
 📫 **Contacto:** [anaholef@gmail.com](mailto:anaholef@gmail.com)  
 🔗 **LinkedIn:** [Mi Perfil](https://linkedin.com/in/tu-enlace)  
 🔗 **GitHub:** [Mi Repositorio](https://github.com/tu-usuario)  
