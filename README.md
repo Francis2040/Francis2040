@@ -8,6 +8,42 @@
 ---
 
 📫 **Contacto:** [anaholef@gmail.com](mailto:anaholef@gmail.com)  
+🔗 **LinkedIn:** [Mi Perfil](https://www.linkedin.com/in/francis-anahole/)  
+🔗 **GitHub:** [Mi Repositorio](https://github.com/FrancisAnahole)  
+
+<p align="center">
+  <img src="images/banner.png" alt="Banner de perfil" width="800">
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/francis-anahole/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="mailto:anaholef@gmail.com">
+    <img src="https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://github.com/FrancisAnahole">
+    <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+</p>
+
+---
+
+<p align="center">
+Soy Francis Anahole, QA Engineer en transición desde el área administrativa, con enfoque en pruebas manuales y conocimientos en Selenium, Pytest, SQL y Postman.  
+Sé diseñar y ejecutar casos de prueba, detectar defectos y comunicar hallazgos de manera clara a equipos técnicos y no técnicos.  
+Puedo ayudar a empresas y equipos de desarrollo a mejorar la calidad de sus aplicaciones, asegurando que cumplan con los requisitos y ofrezcan una experiencia confiable al usuario. 👋
+</p>
+<h1 align="center">Francis Anahole</h1>
+<h3 align="center">QA Engineer | Pruebas Manuales y Automatizadas</h3>
+
+<p align="center">
+  <img src="images/avatar.png" alt="Francis Anahole" width="200" height="200">
+</p>
+
+---
+
+📫 **Contacto:** [anaholef@gmail.com](mailto:anaholef@gmail.com)  
 🔗 **LinkedIn:** [Mi Perfil](https://linkedin.com/in/tu-enlace)  
 🔗 **GitHub:** [Mi Repositorio](https://github.com/tu-usuario)  
 </div>
