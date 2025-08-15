@@ -1,3 +1,18 @@
+<h1 align="center">Francis Anahole</h1>
+<h3 align="center">QA Engineer | Pruebas Manuales y Automatizadas</h3>
+
+<p align="center">
+  <img src="images/avatar.png" alt="Francis Anahole" width="200" style="border-radius:50%">
+</p>
+
+---
+
+Soy QA Engineer con experiencia en **pruebas manuales y automatizadas**, manejo de herramientas como **Selenium, Postman, Jira y SQL**, y enfoque en la calidad del software.  
+Me apasiona encontrar errores y transformarlos en **oportunidades de mejora**.
+
+📫 **Contacto:** [anaholef@gmail.com](mailto:anaholef@gmail.com)  
+🔗 **LinkedIn:** [Mi Perfil](https://linkedin.com/in/tu-enlace)  
+🔗 **GitHub:** [Mi Repositorio](https://github.com/tu-usuario)  
 </div>
 ![Banner de perfil](banner.png/1.png)
 <p align="center">
