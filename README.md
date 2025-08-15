@@ -26,9 +26,6 @@
     <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 </p>
-
----
-
 <p align="center">
 Soy Francis Anahole, QA Engineer en transición desde el área administrativa, con enfoque en pruebas manuales y conocimientos en Selenium, Pytest, SQL y Postman.  
 Sé diseñar y ejecutar casos de prueba, detectar defectos y comunicar hallazgos de manera clara a equipos técnicos y no técnicos.  
