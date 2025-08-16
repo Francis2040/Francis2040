@@ -52,6 +52,7 @@
 Garantizar que todos los pasos de solicitud de taxi funcionen correctamente: desde elegir origen/destino hasta verificar datos del conductor.
 
 **Herramientas**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 Python 3.10, Selenium WebDriver, unittest, re, time, logging, Page Object Model (POM).
 
 **Mi rol**  
@@ -62,6 +63,20 @@ Python 3.10, Selenium WebDriver, unittest, re, time, logging, Page Object Model 
 **Repositorio**  
 [Urban Routes – Automatización Python + Selenium](https://github.com/Francis2040/UrbanRoutes_Automatizacion_Python_Selenium)
 
+##  Gestión dinámica de tarjetas en Around
+Me encargué de automatizar la funcionalidad de agregar y eliminar tarjetas en la aplicación Around, asegurando su correcto funcionamiento en múltiples escenarios dinámicos.
+
+**Herramientas utilizadas**  
+- Python  
+- Selenium WebDriver  
+- Un framework de pruebas (ej. `unittest` o `pytest`)  
+- Page Object Model (POM) para mantener código modular y mantenimiento
+
+  
+- Diseñé e implementé la lógica completa de automatización para agregar y eliminar tarjetas dinámicamente.  
+- Estructuré el proyecto usando POM para facilitar mantenibilidad y legibilidad del código.  
+- Gestioné casos de prueba con datos reales y validé el flujo completo de la interfaz de usuario de Around.
+Ver código en GitHub
 
 ### 🚖 Urban Routes - Automatización de Pruebas
 - **Descripción:** Automatización de flujo completo de solicitud de taxi.  
