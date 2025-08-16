@@ -47,6 +47,22 @@
 
 ## 📂 Proyectos Destacados
 
+##  Urban Routes: Automatización completa del flujo de taxi
+
+Garantizar que todos los pasos de solicitud de taxi funcionen correctamente: desde elegir origen/destino hasta verificar datos del conductor.
+
+**Herramientas**  
+Python 3.10, Selenium WebDriver, unittest, re, time, logging, Page Object Model (POM).
+
+**Mi rol**  
+- Creé y mantuve toda la suite de pruebas automatizadas.  
+- Implementé estructura modular con POM (páginas, utilidades, tests).  
+- Configuré datos de prueba y validé flujos end-to-end.
+
+**Repositorio**  
+[Urban Routes – Automatización Python + Selenium](https://github.com/Francis2040/UrbanRoutes_Automatizacion_Python_Selenium)
+
+
 ### 🚖 Urban Routes - Automatización de Pruebas
 - **Descripción:** Automatización de flujo completo de solicitud de taxi.  
 - **Tecnologías:** Python, Selenium, Pytest.  
