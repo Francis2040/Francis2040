@@ -31,10 +31,7 @@
 
 🔭 Aspirante QA Engineer, recién graduada del Bootcamp de tecnología en Triplete, con formación práctica en herramientas como Postman, JIRA, SQL y un interés destacado en Python. Durante el curso, diseñé y ejecuté casos de prueba, identifiqué errores críticos y comprendí el comportamiento de las aplicaciones. Participe en proyectos destacados como **Urban Routes**, donde automatizamos flujos completos de solicitud de taxi, mejorando la eficiencia de las pruebas y la confiabilidad del sistema.  
 ❤️ Me encanta seguir obteniendo conocimientos y prácticas sobre la Automatización de Pruebas.
-
-
 ---
-
 ## 🛠️ Habilidades Técnicas
 
 - **Pruebas Manuales:** Diseño y ejecución de casos de prueba, reporte de defectos.  
@@ -44,7 +41,6 @@
 - **Herramientas de Gestión:** Jira, GitHub.
 
 ---
-
 ## 📂 Proyectos Destacados
 
 ##  Urban Routes: Automatización completa del flujo de taxi
@@ -53,6 +49,7 @@ Garantizar que todos los pasos de solicitud de taxi funcionen correctamente: des
 
 **Herramientas**  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
 Python 3.10, Selenium WebDriver, unittest, re, time, logging, Page Object Model (POM).
 
 **Mi rol**  
@@ -67,239 +64,28 @@ Python 3.10, Selenium WebDriver, unittest, re, time, logging, Page Object Model 
 Me encargué de automatizar la funcionalidad de agregar y eliminar tarjetas en la aplicación Around, asegurando su correcto funcionamiento en múltiples escenarios dinámicos.
 
 **Herramientas utilizadas**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
 - Python  
 - Selenium WebDriver  
 - Un framework de pruebas (ej. `unittest` o `pytest`)  
 - Page Object Model (POM) para mantener código modular y mantenimiento
+- **Herramientas utilizadas**  
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" alt="Selenium"/>
+  <img src="https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white" alt="Pytest"/>
+  <img src="https://img.shields.io/badge/Unittest-FFCA28?style=for-the-badge&logo=python&logoColor=black" alt="Unittest"/>
+  <img src="https://img.shields.io/badge/Page%20Object%20Model-POM-blue?style=for-the-badge" alt="POM"/>
+</p>
+
 
   
 - Diseñé e implementé la lógica completa de automatización para agregar y eliminar tarjetas dinámicamente.  
 - Estructuré el proyecto usando POM para facilitar mantenibilidad y legibilidad del código.  
 - Gestioné casos de prueba con datos reales y validé el flujo completo de la interfaz de usuario de Around.
 Ver código en GitHub
-
-### 🚖 Urban Routes - Automatización de Pruebas
-- **Descripción:** Automatización de flujo completo de solicitud de taxi.  
-- **Tecnologías:** Python, Selenium, Pytest.  
-- **Repositorio:** [Ver en GitHub](https://github.com/FrancisAnahole/urban-routes)  
----
-
-## 🎯 Objetivo Profesional
-Ayudar a empresas y equipos de desarrollo a **elevar la calidad de sus aplicaciones**, garantizando que cumplan con los requisitos y ofrezcan una **experiencia confiable** a los usuarios.
-
----
-
-<p align="center">
-  💬 *"Donde otros ven errores, yo veo oportunidades de mejora"*
-</p>
-<h1 align="center">Francis Anahole</h1>
-<h3 align="center">QA Engineer | Pruebas Manuales y Automatizadas</h3>
-
-<p align="center">
-  <img src="avatar.png" alt="Francis Anahole" width="200" height="200">
-</p>
-📫 **Contacto:** [anaholef@gmail.com](mailto:anaholef@gmail.com)  
-🔗 **LinkedIn:** [Mi Perfil](https://www.linkedin.com/in/francis-anahole/)  
-🔗 **GitHub:** [Mi Repositorio](https://github.com/FrancisAnahole)  
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/francis-anahole/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="mailto:anaholef@gmail.com">
-    <img src="https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://github.com/FrancisAnahole">
-    <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-</p>
-
-<h1 align="center">Soy Francis Anahole, QA Engineer en transición desde el área administrativa, con enfoque en pruebas manuales y conocimientos en Selenium, Pytest, SQL y Postman.
-Sé diseñar y ejecutar casos de prueba, detectar defectos y comunicar hallazgos de manera clara a equipos técnicos y no técnicos.
-Puedo ayudar a empresas y equipos de desarrollo a mejorar la calidad de sus aplicaciones, asegurando que cumplan con los requisitos y ofrezcan una experiencia confiable al usuario. 👋</h1>
-## 👩‍💻 Sobre mí
-Soy **QA Engineer** en transición desde el área administrativa, con enfoque en **pruebas manuales y automatizadas**.  
-Tengo experiencia en **Selenium, Pytest, SQL y Postman**.  
-Me apasiona **mejorar la calidad del software** y asegurar experiencias confiables para el usuario.
-
----
-
-## 🛠️ Habilidades Técnicas
-
-- **Pruebas Manuales:** Diseño y ejecución de casos de prueba, reporte de defectos.  
-- **Pruebas Automatizadas:** Selenium, Pytest.  
-- **Pruebas de API:** Postman.  
-- **Bases de Datos:** SQL (consultas básicas y avanzadas).  
-- **Herramientas de Gestión:** Jira, Trello, GitHub.  
-- **Otros:** Metodologías Ágiles (Scrum).
-
----
-
-## 📂 Proyectos Destacados
-
-### 🚖 Urban Routes - Automatización de Pruebas
-- **Descripción:** Automatización de flujo completo de solicitud de taxi.  
-- **Tecnologías:** Python, Selenium, Pytest.  
-- **Repositorio:** [Ver en GitHub](https://github.com/FrancisAnahole/urban-routes)  
-
----
-
-## 📈 Experiencia
-
-**Asistente Administrativa / Empleada Doméstica**  
-*(Con funciones adicionales en e-commerce)*  
-- Gestión de inventario de ventas por marketplace.  
-- Creación de fotos y videos para productos.  
-- Atención a clientes y cierre de ventas.  
-- Mejora en tiempos de respuesta al cliente y organización de inventario.
-
----
-
-## 🎯 Objetivo Profesional
-Ayudar a empresas y equipos de desarrollo a **elevar la calidad de sus aplicaciones**, garantizando que cumplan con los requisitos y ofrezcan una **experiencia confiable** a los usuarios.
-
----
-
-<p align="center">
-  💬 *"Donde otros ven errores, yo veo oportunidades de mejora"*
-</p>
-
-
----
-
-## 👩‍💻 Sobre mí
-Soy **QA Engineer** en transición desde el área administrativa, con enfoque en **pruebas manuales y automatizadas**.  
-Tengo experiencia en **Selenium, Pytest, SQL y Postman**.  
-Me apasiona **mejorar la calidad del software** y asegurar experiencias confiables para el usuario.
-
----
-
-## 🛠️ Habilidades Técnicas
-
-- **Pruebas Manuales:** Diseño y ejecución de casos de prueba, reporte de defectos.  
-- **Pruebas Automatizadas:** Selenium, Pytest.  
-- **Pruebas de API:** Postman.  
-- **Bases de Datos:** SQL (consultas básicas y avanzadas).  
-- **Herramientas de Gestión:** Jira, Trello, GitHub.  
-- **Otros:** Metodologías Ágiles (Scrum).
-
----
-
-## 📂 Proyectos Destacados
-
-### 🚖 Urban Routes - Automatización de Pruebas
-- **Descripción:** Automatización de flujo completo de solicitud de taxi.  
-- **Tecnologías:** Python, Selenium, Pytest.  
-- **Repositorio:** [Ver en GitHub](https://github.com/FrancisAnahole/urban-routes)  
-
----
-
-## 📈 Experiencia
-
-**Asistente Administrativa / Empleada Doméstica**  
-*(Con funciones adicionales en e-commerce)*  
-- Gestión de inventario de ventas por marketplace.  
-- Creación de fotos y videos para productos.  
-- Atención a clientes y cierre de ventas.  
-- Mejora en tiempos de respuesta al cliente y organización de inventario.
-
----
-
-## 🎯 Objetivo Profesional
-Ayudar a empresas y equipos de desarrollo a **elevar la calidad de sus aplicaciones**, garantizando que cumplan con los requisitos y ofrezcan una **experiencia confiable** a los usuarios.
-
----
-
-<p align="center">
-  💬 *"Donde otros ven errores, yo veo oportunidades de mejora"*
-</p>
-
----
-
-## 👩‍💻 Sobre mí
-Soy **QA Engineer** en transición desde el área administrativa, con enfoque en **pruebas manuales y automatizadas**.  
-Tengo experiencia en **Selenium, Pytest, SQL y Postman**.  
-Me apasiona **mejorar la calidad del software** y asegurar experiencias confiables para el usuario.
-
----
-
-## 🛠️ Habilidades Técnicas
-
-- **Pruebas Manuales:** Diseño y ejecución de casos de prueba, reporte de defectos.  
-- **Pruebas Automatizadas:** Selenium, Pytest.  
-- **Pruebas de API:** Postman.  
-- **Bases de Datos:** SQL (consultas básicas y avanzadas).  
-- **Herramientas de Gestión:** Jira, Trello, GitHub.  
-- **Otros:** Metodologías Ágiles (Scrum).
-
----
-
-## 📂 Proyectos Destacados
-
-### 🚖 Urban Routes - Automatización de Pruebas
-- **Descripción:** Automatización de flujo completo de solicitud de taxi.  
-- **Tecnologías:** Python, Selenium, Pytest.  
-- **Repositorio:** [Ver en GitHub](https://github.com/FrancisAnahole/urban-routes)  
-
----
-
-## 📈 Experiencia
-
-**Asistente Administrativa / Empleada Doméstica**  
-*(Con funciones adicionales en e-commerce)*  
-- Gestión de inventario de ventas por marketplace.  
-- Creación de fotos y videos para productos.  
-- Atención a clientes y cierre de ventas.  
-- Mejora en tiempos de respuesta al cliente y organización de inventario.
-
----
-
-## 🎯 Objetivo Profesional
-Ayudar a empresas y equipos de desarrollo a **elevar la calidad de sus aplicaciones**, garantizando que cumplan con los requisitos y ofrezcan una **experiencia confiable** a los usuarios.
-
----
-
-<p align="center">
-  💬 *"Donde otros ven errores, yo veo oportunidades de mejora"*
-</p>
-<h1 align="center">Francis Anahole</h1>
-<h3 align="center">QA Engineer | Pruebas Manuales y Automatizadas</h3>
-
-<p align="center">
-  <img src="images/avatar.png" alt="Francis Anahole" width="200" height="200">
-</p>
-
----
-
-📫 **Contacto:** [anaholef@gmail.com](mailto:anaholef@gmail.com)  
-🔗 **LinkedIn:** [Mi Perfil](https://linkedin.com/in/tu-enlace)  
-🔗 **GitHub:** [Mi Repositorio](https://github.com/tu-usuario)  
-</div>
-![Banner de perfil](banner.png/1.png)
-<p align="center">
-  <a href="https://www.linkedin.com/in/francis-anahole/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  <a href="mailto:anaholef@gmail.com">
-  <img src="https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-</a>
-
-<a href="https://github.com/FrancisAnahole">
-  <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</a>
-<h1 align="center">Soy Francis Anahole, QA Engineer en transición desde el área administrativa, con enfoque en pruebas manuales y conocimientos en Selenium, Pytest, SQL y Postman.
-Sé diseñar y ejecutar casos de prueba, detectar defectos y comunicar hallazgos de manera clara a equipos técnicos y no técnicos.
-Puedo ayudar a empresas y equipos de desarrollo a mejorar la calidad de sus aplicaciones, asegurando que cumplan con los requisitos y ofrezcan una experiencia confiable al usuario. 👋</h1>
-
-## 📌 Sobre mí :
-- 🔭 Aspirante QA Engineer, recién graduada del Bootcamp de tecnología en Triplete, con formación práctica en herramientas como Postman, JIRA, SQL y un interés destacado en Python. Durante el curso, diseñé y ejecuté casos de prueba, identifiqué errores críticos y comprendí el comportamiento de las aplicaciones.  
-- 🌱 Certificada en Quality Assurance Engineering e Ingeniería de software (feb. 2025 - jul. 2025)  
-- ❤️ Me encanta seguir obteniendo conocimientos y prácticas sobre la Automatización de Pruebas.  
-- 📫 Quieres contactar conmigo:  
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/francis-anahole)
-  <a href="mailto:anaholef@gmail.com">
-  <img src="https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-<a href="https://github.com/FrancisAnahole"> <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</a>
 
 ### 🧪 Lenguajes y herramientas
 
