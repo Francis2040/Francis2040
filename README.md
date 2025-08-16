@@ -26,13 +26,11 @@
 👩‍💻 Soy **Francis Anahole**, QA Engineer en transición desde el área administrativa.  
 ✅ Sé diseñar y ejecutar **pruebas manuales y automatizadas**, trabajar con **Selenium, Pytest, SQL y Postman**, y reportar defectos de manera clara.  
 🚀 Puedo ayudar a **equipos de desarrollo y empresas** a entregar aplicaciones más confiables, detectando errores antes de que lleguen al usuario final.  
+
 ---
 
-Durante mi formación y primeros proyectos, he trabajado en **pruebas manuales y automatizadas**, utilizando herramientas como **Selenium, Pytest, SQL y Postman**, y he diseñado y ejecutado más de 200 casos de prueba, reportando defectos críticos y optimizando procesos.  
-
-He participado en proyectos destacados como **Urban Routes**, donde automatizamos flujos completos de solicitud de taxi, mejorando la eficiencia de las pruebas y la confiabilidad del sistema.  
-Soy **QA Engineer** apasionada por asegurar la **calidad del software** y mejorar la experiencia del usuario.  
-✨ **Conversemos** si quieres mejorar la calidad de tus aplicaciones y garantizar experiencias confiables para los usuarios.
+🔭 Aspirante QA Engineer, recién graduada del Bootcamp de tecnología en Triplete, con formación práctica en herramientas como Postman, JIRA, SQL y un interés destacado en Python. Durante el curso, diseñé y ejecuté casos de prueba, identifiqué errores críticos y comprendí el comportamiento de las aplicaciones. Participe en proyectos destacados como **Urban Routes**, donde automatizamos flujos completos de solicitud de taxi, mejorando la eficiencia de las pruebas y la confiabilidad del sistema.  
+❤️ Me encanta seguir obteniendo conocimientos y prácticas sobre la Automatización de Pruebas.
 
 
 ---
