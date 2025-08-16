@@ -4,9 +4,6 @@
 <p align="center">
   <img src="avatar.png" alt="Francis Anahole" width="200" height="200">
 </p>
-
----
-
 📫 **Contacto:** [anaholef@gmail.com](mailto:anaholef@gmail.com)  
 🔗 **LinkedIn:** [Mi Perfil](https://www.linkedin.com/in/francis-anahole/)  
 🔗 **GitHub:** [Mi Repositorio](https://github.com/FrancisAnahole)  
@@ -23,8 +20,9 @@
   </a>
 </p>
 
----
-
+<h1 align="center">Soy Francis Anahole, QA Engineer en transición desde el área administrativa, con enfoque en pruebas manuales y conocimientos en Selenium, Pytest, SQL y Postman.
+Sé diseñar y ejecutar casos de prueba, detectar defectos y comunicar hallazgos de manera clara a equipos técnicos y no técnicos.
+Puedo ayudar a empresas y equipos de desarrollo a mejorar la calidad de sus aplicaciones, asegurando que cumplan con los requisitos y ofrezcan una experiencia confiable al usuario. 👋</h1>
 ## 👩‍💻 Sobre mí
 Soy **QA Engineer** en transición desde el área administrativa, con enfoque en **pruebas manuales y automatizadas**.  
 Tengo experiencia en **Selenium, Pytest, SQL y Postman**.  
