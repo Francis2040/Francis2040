@@ -41,8 +41,7 @@
 - **Pruebas Automatizadas:** Selenium, Pytest.  
 - **Pruebas de API:** Postman.  
 - **Bases de Datos:** SQL (consultas básicas y avanzadas).  
-- **Herramientas de Gestión:** Jira, Trello, GitHub.  
-- **Otros:** Metodologías Ágiles (Scrum).
+- **Herramientas de Gestión:** Jira, GitHub.
 
 ---
 
@@ -52,18 +51,6 @@
 - **Descripción:** Automatización de flujo completo de solicitud de taxi.  
 - **Tecnologías:** Python, Selenium, Pytest.  
 - **Repositorio:** [Ver en GitHub](https://github.com/FrancisAnahole/urban-routes)  
-
----
-
-## 📈 Experiencia
-
-**Asistente Administrativa / Empleada Doméstica**  
-*(Con funciones adicionales en e-commerce)*  
-- Gestión de inventario de ventas por marketplace.  
-- Creación de fotos y videos para productos.  
-- Atención a clientes y cierre de ventas.  
-- Mejora en tiempos de respuesta al cliente y organización de inventario.
-
 ---
 
 ## 🎯 Objetivo Profesional
