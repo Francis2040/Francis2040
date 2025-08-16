@@ -12,10 +12,6 @@
 🔗 **GitHub:** [Mi Repositorio](https://github.com/FrancisAnahole)  
 
 <p align="center">
-  <img src="images/banner.png" alt="Banner de perfil" width="800">
-</p>
-
-<p align="center">
   <a href="https://www.linkedin.com/in/francis-anahole/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
@@ -25,6 +21,55 @@
   <a href="https://github.com/FrancisAnahole">
     <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
+</p>
+
+---
+
+## 👩‍💻 Sobre mí
+Soy **QA Engineer** en transición desde el área administrativa, con enfoque en **pruebas manuales y automatizadas**.  
+Tengo experiencia en **Selenium, Pytest, SQL y Postman**.  
+Me apasiona **mejorar la calidad del software** y asegurar experiencias confiables para el usuario.
+
+---
+
+## 🛠️ Habilidades Técnicas
+
+- **Pruebas Manuales:** Diseño y ejecución de casos de prueba, reporte de defectos.  
+- **Pruebas Automatizadas:** Selenium, Pytest.  
+- **Pruebas de API:** Postman.  
+- **Bases de Datos:** SQL (consultas básicas y avanzadas).  
+- **Herramientas de Gestión:** Jira, Trello, GitHub.  
+- **Otros:** Metodologías Ágiles (Scrum).
+
+---
+
+## 📂 Proyectos Destacados
+
+### 🚖 Urban Routes - Automatización de Pruebas
+- **Descripción:** Automatización de flujo completo de solicitud de taxi.  
+- **Tecnologías:** Python, Selenium, Pytest.  
+- **Repositorio:** [Ver en GitHub](https://github.com/FrancisAnahole/urban-routes)  
+
+---
+
+## 📈 Experiencia
+
+**Asistente Administrativa / Empleada Doméstica**  
+*(Con funciones adicionales en e-commerce)*  
+- Gestión de inventario de ventas por marketplace.  
+- Creación de fotos y videos para productos.  
+- Atención a clientes y cierre de ventas.  
+- Mejora en tiempos de respuesta al cliente y organización de inventario.
+
+---
+
+## 🎯 Objetivo Profesional
+Ayudar a empresas y equipos de desarrollo a **elevar la calidad de sus aplicaciones**, garantizando que cumplan con los requisitos y ofrezcan una **experiencia confiable** a los usuarios.
+
+---
+
+<p align="center">
+  💬 *"Donde otros ven errores, yo veo oportunidades de mejora"*
 </p>
 
 ---
