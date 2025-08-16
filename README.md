@@ -4,6 +4,83 @@
 <p align="center">
   <img src="avatar.png" alt="Francis Anahole" width="200" height="200">
 </p>
+
+---
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/francis-anahole/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="mailto:anaholef@gmail.com">
+    <img src="https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://github.com/FrancisAnahole">
+    <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="Francis_Anahole_CV.pdf">
+    <img src="https://img.shields.io/badge/CV-0078D4?style=for-the-badge&logo=adobeacrobat&logoColor=white" alt="CV"/>
+  </a>
+</p>
+
+---
+
+## 👩‍💻 Sobre mí
+
+Soy **Francis Anahole**, QA Engineer en transición desde el área administrativa, apasionada por asegurar la **calidad del software** y mejorar la experiencia del usuario.  
+
+Durante mi formación y primeros proyectos, he trabajado en **pruebas manuales y automatizadas**, utilizando herramientas como **Selenium, Pytest, SQL y Postman**, y he diseñado y ejecutado más de 200 casos de prueba, reportando defectos críticos y optimizando procesos.  
+
+He participado en proyectos destacados como **Urban Routes**, donde automatizamos flujos completos de solicitud de taxi, mejorando la eficiencia de las pruebas y la confiabilidad del sistema.  
+
+✨ **Conversemos** si quieres mejorar la calidad de tus aplicaciones y garantizar experiencias confiables para los usuarios.
+
+---
+
+## 🛠️ Habilidades Técnicas
+
+- **Pruebas Manuales:** Diseño y ejecución de casos de prueba, reporte de defectos.  
+- **Pruebas Automatizadas:** Selenium, Pytest.  
+- **Pruebas de API:** Postman.  
+- **Bases de Datos:** SQL (consultas básicas y avanzadas).  
+- **Herramientas de Gestión:** Jira, Trello, GitHub.  
+- **Otros:** Metodologías Ágiles (Scrum).
+
+---
+
+## 📂 Proyectos Destacados
+
+### 🚖 Urban Routes - Automatización de Pruebas
+- **Descripción:** Automatización de flujo completo de solicitud de taxi.  
+- **Tecnologías:** Python, Selenium, Pytest.  
+- **Repositorio:** [Ver en GitHub](https://github.com/FrancisAnahole/urban-routes)  
+
+---
+
+## 📈 Experiencia
+
+**Asistente Administrativa / Empleada Doméstica**  
+*(Con funciones adicionales en e-commerce)*  
+- Gestión de inventario de ventas por marketplace.  
+- Creación de fotos y videos para productos.  
+- Atención a clientes y cierre de ventas.  
+- Mejora en tiempos de respuesta al cliente y organización de inventario.
+
+---
+
+## 🎯 Objetivo Profesional
+Ayudar a empresas y equipos de desarrollo a **elevar la calidad de sus aplicaciones**, garantizando que cumplan con los requisitos y ofrezcan una **experiencia confiable** a los usuarios.
+
+---
+
+<p align="center">
+  💬 *"Donde otros ven errores, yo veo oportunidades de mejora"*
+</p>
+<h1 align="center">Francis Anahole</h1>
+<h3 align="center">QA Engineer | Pruebas Manuales y Automatizadas</h3>
+
+<p align="center">
+  <img src="avatar.png" alt="Francis Anahole" width="200" height="200">
+</p>
 📫 **Contacto:** [anaholef@gmail.com](mailto:anaholef@gmail.com)  
 🔗 **LinkedIn:** [Mi Perfil](https://www.linkedin.com/in/francis-anahole/)  
 🔗 **GitHub:** [Mi Repositorio](https://github.com/FrancisAnahole)  
