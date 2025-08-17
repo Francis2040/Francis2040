@@ -80,7 +80,7 @@ Ver código en GitHub
 **Repositorio**  
 - [Automatización con Selenium: agregar y eliminar tarjetas dinámicamente en Around](https://github.com/Francis2040/Automatizacion-con-Selenium-para-agregar-y-eliminar-tarjetas-dinamicamente-en-la-aplicacion-Around)
 
-## QA Project: Urban Grocers App
+## Testing Automatizado de la API Urban Grocers
 
 Este proyecto permite la creación de kits personalizados para usuarios específicos mediante la aplicación Urban Grocers. Se desarrolló un conjunto de pruebas automatizadas para validar diversos casos de uso relacionados con la longitud y el formato del campo name en el cuerpo de la solicitud.
 
