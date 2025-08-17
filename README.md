@@ -5,6 +5,7 @@
   <img src="avatar.png" alt="Francis Anahole" width="200" height="200">
 </p>
 👩‍💻 Soy **Francis Anahole**, QA Engineer en transición desde el área administrativa.  
+
 ✅ Sé diseñar y ejecutar **pruebas manuales y automatizadas**, trabajar con **Selenium, Pytest, SQL y Postman**, y reportar defectos de manera clara.  
 🚀 Puedo ayudar a **equipos de desarrollo y empresas** a entregar aplicaciones más confiables, detectando errores antes de que lleguen al usuario final.  
 ---
@@ -26,13 +27,14 @@
 🔭 Aspirante QA Engineer, recién graduada del Bootcamp de tecnología en Triplete, con formación práctica en herramientas como Postman, JIRA, SQL y un interés destacado en Python. Durante el curso, diseñé y ejecuté casos de prueba, identifiqué errores críticos y comprendí el comportamiento de las aplicaciones. Participe en proyectos destacados como **Urban Routes**, donde automatizamos flujos completos de solicitud de taxi, mejorando la eficiencia de las pruebas y la confiabilidad del sistema.  
 ❤️ Me encanta seguir obteniendo conocimientos y prácticas sobre la Automatización de Pruebas.
 ---
+
 ## 🛠️ Habilidades Técnicas
 
 - **Pruebas Manuales:** Diseño y ejecución de casos de prueba, reporte de defectos.  
-- **Pruebas Automatizadas:** Selenium, Pytest.  
-- **Pruebas de API:** Postman.  
-- **Bases de Datos:** SQL (consultas básicas y avanzadas).  
-- **Herramientas de Gestión:** Jira, GitHub.
+- **Pruebas Automatizadas:** ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white), <img src="https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white" alt="Pytest"/>  
+- **Pruebas de API:** ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+- **Bases de Datos:**(consultas básicas y avanzadas).![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+- **Herramientas de Gestión:** ![JIRA](https://img.shields.io/badge/JIRA-0052CC?style=for-the-badge&logo=jira&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 ## 📂 Proyectos Destacados
