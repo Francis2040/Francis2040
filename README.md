@@ -6,7 +6,7 @@
 </p>
 👩‍💻 Soy **Francis Anahole**, QA Engineer en transición desde el área administrativa.  
 ✅ Sé diseñar y ejecutar **pruebas manuales y automatizadas**, trabajar con **Selenium, Pytest, SQL y Postman**, y reportar defectos de manera clara.  
-🚀 Puedo ayudar a **equipos de desarrollo y empresas** a entregar aplicaciones más confiables, detectando errores antes de que lleguen al usuario final.  
+🚀 Puedo ayudar a equipos de desarrollo y empresas a entregar aplicaciones más confiables, detectando errores antes de que lleguen al usuario final.  
 ---
 <p align="center">
   <a href="https://www.linkedin.com/in/francis-anahole/">
