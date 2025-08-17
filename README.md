@@ -19,8 +19,9 @@
     <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
   <a href="https://drive.google.com/tu-link-de-cv" target="_blank">
-    <img src="https://img.shields.io/badge/CV-%230A66C2.svg?style=for-the-badge&logo=googledrive&logoColor=white" alt="CV"/>
-  </a>
+    <a href="https://docs.google.com/document/d/1KdWM7GDKW3WIpNjrB0evANzvv2nJyfM6loEG8tImsXI/edit?usp=sharing" target="_blank">
+  <img src="https://img.shields.io/badge/CV-%230A66C2.svg?style=for-the-badge&logo=googledrive&logoColor=white" alt="CV"/>
+</a>
 </p>
 ---
 🔭 Aspirante QA Engineer, recién graduada del Bootcamp de tecnología en Triplete, con formación práctica en herramientas como Postman, JIRA, SQL y un interés destacado en Python. Durante el curso, diseñé y ejecuté casos de prueba, identifiqué errores críticos y comprendí el comportamiento de las aplicaciones.
@@ -120,6 +121,10 @@ Diseñé y ejecuté las pruebas automatizadas.
 Implementé un flujo de autenticación con token para interactuar con la API.
 
 Organicé el proyecto bajo buenas prácticas (archivos separados: configuración, datos, requests y tests).
+
+🔗 Link al repositorio
+
+👉 QA Project: Urban Grocers App
 
 
 ### 🧪 Lenguajes y herramientas
