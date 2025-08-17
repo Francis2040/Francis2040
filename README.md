@@ -49,7 +49,6 @@ Garantizar que todos los pasos de solicitud de taxi funcionen correctamente: des
   <img src="https://img.shields.io/badge/Unittest-FFCA28?style=for-the-badge&logo=python&logoColor=black" alt="Unittest"/>
   <img src="https://img.shields.io/badge/Page%20Object%20Model-POM-blue?style=for-the-badge" alt="POM"/>
 </p>
-unittest, re, time, logging, Page Object Model (POM).
 
 **Mi rol**  
 - Creé y mantuve toda la suite de pruebas automatizadas.  
