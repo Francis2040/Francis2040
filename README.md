@@ -79,6 +79,48 @@ Ver código en GitHub
 **Repositorio**  
 - [Automatización con Selenium: agregar y eliminar tarjetas dinámicamente en Around](https://github.com/Francis2040/Automatizacion-con-Selenium-para-agregar-y-eliminar-tarjetas-dinamicamente-en-la-aplicacion-Around)
 
+## QA Project: Urban Grocers App
+
+Este proyecto permite la creación de kits personalizados para usuarios específicos mediante la aplicación Urban Grocers. Se desarrolló un conjunto de pruebas automatizadas para validar diversos casos de uso relacionados con la longitud y el formato del campo name en el cuerpo de la solicitud.
+
+## Resolvi
+
+Garantizar la calidad y confiabilidad de la API que gestiona usuarios y kits.
+
+Detectar errores en la validación de campos antes de que lleguen a producción.
+
+## 🔧 Herramientas utilizadas
+
+<p align="left">
+  <a href="https://www.python.org/" target="_blank">
+    <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge">
+  </a>
+
+  <a href="https://docs.pytest.org/" target="_blank">
+    <img alt="Pytest" src="https://img.shields.io/badge/Pytest-0A9EDC?logo=pytest&logoColor=white&style=for-the-badge">
+  </a>
+
+  <a href="https://requests.readthedocs.io/" target="_blank">
+    <img alt="Requests" src="https://img.shields.io/badge/Requests-20232A?logo=python&logoColor=white&style=for-the-badge">
+  </a>
+
+  <a href="https://www.json.org/json-en.html" target="_blank">
+    <img alt="JSON" src="https://img.shields.io/badge/JSON-000000?logo=json&logoColor=white&style=for-the-badge">
+  </a>
+
+  <a href="https://docs.python.org/3/library/copy.html" target="_blank">
+    <img alt="Copy" src="https://img.shields.io/badge/Copy%20Module-FFDD00?logo=python&logoColor=black&style=for-the-badge">
+  </a>
+</p>
+
+##👩‍💻 Mi rol
+
+Diseñé y ejecuté las pruebas automatizadas.
+
+Implementé un flujo de autenticación con token para interactuar con la API.
+
+Organicé el proyecto bajo buenas prácticas (archivos separados: configuración, datos, requests y tests).
+
 
 ### 🧪 Lenguajes y herramientas
 
