@@ -65,6 +65,13 @@ Me encargué de automatizar la funcionalidad de agregar y eliminar tarjetas en l
   <img alt="unittest" src="https://img.shields.io/badge/unittest-Framework-3776AB?logo=python&logoColor=white&style=for-the-badge">
 </a>
 - Page Object Model (POM) para mantener código modular y mantenimiento
+- <p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" alt="Selenium"/>
+  <img src="https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white" alt="Pytest"/>
+  <img src="https://img.shields.io/badge/Unittest-FFCA28?style=for-the-badge&logo=python&logoColor=black" alt="Unittest"/>
+  <img src="https://img.shields.io/badge/Page%20Object%20Model-POM-blue?style=for-the-badge" alt="POM"/>
+</p>
 - **Herramientas utilizadas**  
 
 <p align="left">
