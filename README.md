@@ -28,7 +28,21 @@
 🚀 Puedo ayudar a **equipos de desarrollo y empresas** a entregar aplicaciones más confiables, detectando errores antes de que lleguen al usuario final.  
 
 ---
-
+<p align="center">
+  <a href="https://www.linkedin.com/in/francis-anahole/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="mailto:anaholef@gmail.com">
+    <img src="https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://github.com/FrancisAnahole">
+    <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://drive.google.com/tu-link-de-cv" target="_blank">
+    <img src="https://img.shields.io/badge/CV-%230A66C2.svg?style=for-the-badge&logo=googledrive&logoColor=white" alt="CV"/>
+  </a>
+</p>
+---
 🔭 Aspirante QA Engineer, recién graduada del Bootcamp de tecnología en Triplete, con formación práctica en herramientas como Postman, JIRA, SQL y un interés destacado en Python. Durante el curso, diseñé y ejecuté casos de prueba, identifiqué errores críticos y comprendí el comportamiento de las aplicaciones. Participe en proyectos destacados como **Urban Routes**, donde automatizamos flujos completos de solicitud de taxi, mejorando la eficiencia de las pruebas y la confiabilidad del sistema.  
 ❤️ Me encanta seguir obteniendo conocimientos y prácticas sobre la Automatización de Pruebas.
 ---
