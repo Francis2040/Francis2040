@@ -1,5 +1,5 @@
 <h1 align="center">Francis Anahole</h1>
-<h3 align="center">QA Engineer | Pruebas Manuales y Automatizadas</h3>
+<h3 align="center">QA Engineer | Pruebas Manuales</h3>
 
 <p align="center">
   <img src="avatar.png" alt="Francis Anahole" width="200" height="200">
