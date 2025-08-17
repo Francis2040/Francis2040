@@ -23,7 +23,8 @@
   </a>
 </p>
 ---
-🔭 Aspirante QA Engineer, recién graduada del Bootcamp de tecnología en Triplete, con formación práctica en herramientas como Postman, JIRA, SQL y un interés destacado en Python. Durante el curso, diseñé y ejecuté casos de prueba, identifiqué errores críticos y comprendí el comportamiento de las aplicaciones. Participe en proyectos destacados como **Urban Routes**, donde automatizamos flujos completos de solicitud de taxi, mejorando la eficiencia de las pruebas y la confiabilidad del sistema.  
+🔭 Aspirante QA Engineer, recién graduada del Bootcamp de tecnología en Triplete, con formación práctica en herramientas como Postman, JIRA, SQL y un interés destacado en Python. Durante el curso, diseñé y ejecuté casos de prueba, identifiqué errores críticos y comprendí el comportamiento de las aplicaciones.
+Participe en proyectos destacados como **Urban Routes**, donde automatizamos flujos completos de solicitud de taxi, mejorando la eficiencia de las pruebas y la confiabilidad del sistema.  
 ❤️ Me encanta seguir obteniendo conocimientos y prácticas sobre la Automatización de Pruebas.
 ---
 
@@ -76,6 +77,7 @@ Me encargué de automatizar la funcionalidad de agregar y eliminar tarjetas en l
 - Estructuré el proyecto usando POM para facilitar mantenibilidad y legibilidad del código.  
 - Gestioné casos de prueba con datos reales y validé el flujo completo de la interfaz de usuario de Around.
 Ver código en GitHub
+
 
 ### 🧪 Lenguajes y herramientas
 
