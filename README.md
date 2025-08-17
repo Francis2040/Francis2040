@@ -77,6 +77,8 @@ Me encargué de automatizar la funcionalidad de agregar y eliminar tarjetas en l
 - Estructuré el proyecto usando POM para facilitar mantenibilidad y legibilidad del código.  
 - Gestioné casos de prueba con datos reales y validé el flujo completo de la interfaz de usuario de Around.
 Ver código en GitHub
+**Repositorio**  
+[Urban Routes – Automatización Python + Selenium]https://github.com/Francis2040/Automatizacion-con-Selenium-para-agregar-y-eliminar-tarjetas-dinamicamente-en-la-aplicacion-Around
 
 
 ### 🧪 Lenguajes y herramientas
