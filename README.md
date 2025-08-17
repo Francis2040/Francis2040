@@ -87,7 +87,7 @@ Ver código en GitHub
 
 Este proyecto permite la creación de kits personalizados para usuarios específicos mediante la aplicación Urban Grocers. Se desarrolló un conjunto de pruebas automatizadas para validar diversos casos de uso relacionados con la longitud y el formato del campo name en el cuerpo de la solicitud.
 
-## 🔧 Herramientas utilizadas
+**🔧 Herramientas utilizadas**
 
 <p align="left">
   <a href="https://www.python.org/" target="_blank">
@@ -143,12 +143,6 @@ Organicé el proyecto bajo buenas prácticas (archivos separados: configuración
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=python&logoColor=white)
 
-**Otros conocimientos clave:**
-
-- Diseño y ejecución de casos de prueba  
-- Pruebas funcionales y manuales  
-- Automatización de pruebas  
-- Reporte y seguimiento de bugs
 ---
 ### :bar_chart: Mis estadísticas
 
