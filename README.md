@@ -24,9 +24,13 @@
 </a>
 </p>
 ---
-🔭 Aspirante QA Engineer, recién graduada del Bootcamp de tecnología en Triplete, con formación práctica en herramientas como Postman, JIRA, SQL y un interés destacado en Python. Durante el curso, diseñé y ejecuté casos de prueba, identifiqué errores críticos y comprendí el comportamiento de las aplicaciones.
+    Hace un tiempo, buscaba un cambio profesional que realmente me motivara, pero sentía cierta aversión a la tecnología porque ni siquiera sabía cómo actualizar una computadora. 🥲 Hasta que, un día, escuché la frase: “Si eres detallista y organizado, puedes trabajar en QA sin experiencia previa”. Esta idea despertó mi curiosidad, y comencé a investigar.
+
+Descubrí el bootcamp de QA de TripleTen, un programa de 5 meses online, a tiempo parcial, diseñado para personas sin experiencia previa y con respaldo de empleo o garantía de reembolso 
+tripleten.com
+Lo tomé como un reto personal: aprender algo que nunca había considerado. Lo que comenzó como un experimento, se convirtió en pasión: asegurar la calidad del software y contribuir a que las aplicaciones funcionen correctamente para las personas. Durante el curso, diseñé y ejecuté casos de prueba, identifiqué errores críticos y comprendí el comportamiento de las aplicaciones. Hoy sigo creciendo cada día, convencida de que los cambios más valiosos nacen cuando salimos de nuestra zona de confort.
 Participe en proyectos destacados como **Urban Routes**, donde automatizamos flujos completos de solicitud de taxi, mejorando la eficiencia de las pruebas y la confiabilidad del sistema.  
-❤️ Me encanta seguir obteniendo conocimientos y prácticas sobre la Automatización de Pruebas.
+Creo firmemente que lo que parecía un reto imposible se ha convertido en mi propósito: asegurar que el software funcione para la gente, con pasión y dedicación. Estoy abierto a colaborar.
 ---
 
 ## 🛠️ Habilidades Técnicas
@@ -83,12 +87,6 @@ Ver código en GitHub
 ## Testing Automatizado de la API Urban Grocers
 
 Este proyecto permite la creación de kits personalizados para usuarios específicos mediante la aplicación Urban Grocers. Se desarrolló un conjunto de pruebas automatizadas para validar diversos casos de uso relacionados con la longitud y el formato del campo name en el cuerpo de la solicitud.
-
-## Resolvi
-
-Garantizar la calidad y confiabilidad de la API que gestiona usuarios y kits.
-
-Detectar errores en la validación de campos antes de que lleguen a producción.
 
 ## 🔧 Herramientas utilizadas
 
