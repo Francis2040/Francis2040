@@ -5,7 +5,6 @@
   <img src="avatar.png" alt="Francis Anahole" width="200" height="200">
 </p>
 👩‍💻 Soy **Francis Anahole**, QA Engineer en transición desde el área administrativa.  
-
 ✅ Sé diseñar y ejecutar **pruebas manuales y automatizadas**, trabajar con **Selenium, Pytest, SQL y Postman**, y reportar defectos de manera clara.  
 🚀 Puedo ayudar a **equipos de desarrollo y empresas** a entregar aplicaciones más confiables, detectando errores antes de que lleguen al usuario final.  
 ---
@@ -46,7 +45,7 @@ Garantizar que todos los pasos de solicitud de taxi funcionen correctamente: des
 **Herramientas**  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
-Python 3.10, Selenium WebDriver, unittest, re, time, logging, Page Object Model (POM).
+unittest, re, time, logging, Page Object Model (POM).
 
 **Mi rol**  
 - Creé y mantuve toda la suite de pruebas automatizadas.  
@@ -62,9 +61,9 @@ Me encargué de automatizar la funcionalidad de agregar y eliminar tarjetas en l
 **Herramientas utilizadas**  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
-- Python  
-- Selenium WebDriver  
-- Un framework de pruebas (ej. `unittest` o `pytest`)  
+- Un framework de pruebas (ej. `unittest` o `pytest`)  <a href="https://docs.python.org/3/library/unittest.html" target="_blank">
+  <img alt="unittest" src="https://img.shields.io/badge/unittest-Framework-3776AB?logo=python&logoColor=white&style=for-the-badge">
+</a>
 - Page Object Model (POM) para mantener código modular y mantenimiento
 - **Herramientas utilizadas**  
 
