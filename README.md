@@ -125,6 +125,10 @@ Implementé un flujo de autenticación con token para interactuar con la API.
 
 Organicé el proyecto bajo buenas prácticas (archivos separados: configuración, datos, requests y tests).
 
+## 📸 Captura de pantalla
+
+![Vista previa]
+
 🔗 Link al repositorio
 
 👉 QA Project: Urban Grocers App
