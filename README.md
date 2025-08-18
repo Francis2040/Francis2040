@@ -57,7 +57,9 @@ Garantizar que todos los pasos de solicitud de taxi funcionen correctamente: des
 - Implementé estructura modular con POM (páginas, utilidades, tests).  
 - Configuré datos de prueba y validé flujos end-to-end.
 
-https://github.com/Francis2040/Francis2040/blob/main/Captura%20de%20pantalla%202025-08-18%20133513.png
+## 📸 Captura de pantalla
+
+![Vista previa](https://raw.githubusercontent.com/Francis2040/Francis2040/main/Captura%20de%20pantalla%202025-08-18%20133513.png)
 
 **Repositorio**  
 [Urban Routes – Automatización Python + Selenium](https://github.com/Francis2040/UrbanRoutes_Automatizacion_Python_Selenium)
