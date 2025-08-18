@@ -81,7 +81,10 @@ Me encargué de automatizar la funcionalidad de agregar y eliminar tarjetas en l
 - Diseñé e implementé la lógica completa de automatización para agregar y eliminar tarjetas dinámicamente.  
 - Estructuré el proyecto usando POM para facilitar mantenibilidad y legibilidad del código.  
 - Gestioné casos de prueba con datos reales y validé el flujo completo de la interfaz de usuario de Around.
-Ver código en GitHub
+
+- ## 📸 Captura de pantalla
+![Vista previa]https://github.com/Francis2040/Francis2040/blob/main/Captura%20de%20pantalla%202025-08-18%20135207.png
+
 **Repositorio**  
 - [Automatización con Selenium: agregar y eliminar tarjetas dinámicamente en Around](https://github.com/Francis2040/Automatizacion-con-Selenium-para-agregar-y-eliminar-tarjetas-dinamicamente-en-la-aplicacion-Around)
 
