@@ -130,8 +130,7 @@ Organicé el proyecto bajo buenas prácticas (archivos separados: configuración
 ![Vista previa](https://github.com/Francis2040/Francis2040/blob/main/Captura%20de%20pantalla%202025-08-18%20133014.png)
 
 🔗 Link al repositorio
-
-👉 QA Project: Urban Grocers App
+https://github.com/Francis2040/Automatizacion-de-pruebas-para-validacion-de-campos-en-la-aplicacion-Urban-Grocers
 
 
 ### 🧪 Lenguajes y herramientas
