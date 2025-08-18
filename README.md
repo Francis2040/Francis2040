@@ -127,7 +127,7 @@ Organicé el proyecto bajo buenas prácticas (archivos separados: configuración
 
 ## 📸 Captura de pantalla
 
-![Vista previa]
+![Vista previa](https://github.com/Francis2040/Francis2040/blob/main/Captura%20de%20pantalla%202025-08-18%20133014.png)
 
 🔗 Link al repositorio
 
