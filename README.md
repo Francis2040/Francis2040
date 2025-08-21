@@ -4,14 +4,6 @@
 <div id="header" align="center">
   <img decoding="async" src="https://github.com/Francis2040/Francis2040/blob/main/banner.png/Banner.png" width="800"/>
 </div>
-
-**QA Engineer en transición desde el área administrativa.**
-
-✅ **Sé diseñar y ejecutar **pruebas manuales y automatizadas**, trabajar con **Selenium, Pytest, SQL y Postman**, y reportar defectos de manera clara.**
-
-🚀 **Puedo ayudar a equipos de desarrollo y empresas a entregar aplicaciones más confiables, detectando errores antes de que lleguen al usuario final.**
-
----
 <p align="center">
   <a href="https://www.linkedin.com/in/francis-anahole/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -27,8 +19,14 @@
   <img src="https://img.shields.io/badge/CV-%230A66C2.svg?style=for-the-badge&logo=googledrive&logoColor=white" alt="CV"/>
 </a>
 </p>
----
 
+**Sobre mi** **QA Engineer en transición desde el área administrativa.**
+
+✅ **Sé diseñar y ejecutar **pruebas manuales y automatizadas**, trabajar con **Selenium, Pytest, SQL y Postman**, y reportar defectos de manera clara.**
+
+🚀 **Puedo ayudar a equipos de desarrollo y empresas a entregar aplicaciones más confiables, detectando errores antes de que lleguen al usuario final.**
+
+---
 ## 🛠️ Habilidades Técnicas
 
 - **Pruebas Manuales:** Diseño y ejecución de casos de prueba, reporte de defectos.  
