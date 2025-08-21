@@ -20,7 +20,9 @@
 </a>
 </p>
 
-**Sobre mi** **QA Engineer en transición desde el área administrativa.**
+**Sobre mi:** 
+
+**Apasionada por garantizar que las aplicaciones funcionen a la perfección para los usuarios. Combino experiencia en pruebas manuales y automatizadas con habilidades en Selenium, Pytest, SQL y Postman, aportando precisión, análisis crítico y soluciones eficientes a cada proyecto.**
 
 ✅ **Sé diseñar y ejecutar **pruebas manuales y automatizadas**, trabajar con **Selenium, Pytest, SQL y Postman**, y reportar defectos de manera clara.**
 
@@ -37,6 +39,32 @@
 
 ---
 ## 📂 Proyectos Destacados
+
+###  Automatización de Pruebas de Login en OrangeHRM Demo
+
+El inicio de sesión es una funcionalidad crítica en cualquier aplicación web: si falla, los usuarios no pueden acceder al sistema.
+Este proyecto valida automáticamente el inicio de sesión exitoso en la plataforma OrangeHRM Demo, asegurando que el acceso al Dashboard funcione correctamente.
+
+🛠️ Herramientas usadas
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![Pytest](https://img.shields.io/badge/Pytest-5A5A5A?style=for-the-badge&logo=pytest&logoColor=white)  
+![Page Object Model](https://img.shields.io/badge/Page%20Object%20Model-POM-blue?style=for-the-badge)
+
+WebDriver Manager – Configuración automática del driver de Chrome
+
+**Mi aporte** 
+
+Diseñé y desarrollé los scripts de prueba automatizados.
+Implementé el patrón Page Object Model (POM) para separar la lógica de páginas y pruebas.
+Configuré la ejecución de tests con Pytest.
+Documenté el proyecto con instrucciones claras en este README.md.
+
+  ![Urban Routes](./Captura_Demo.png)
+
+ **Repositorio:** [Automatización de Pruebas de Login en OrangeHRM Demo](https://github.com/Francis2040/Test-de-Login-OrangeHRM-Demo)
+ 
 
 ##  Urban Routes: Automatización completa del flujo de taxi
 
