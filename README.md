@@ -61,7 +61,7 @@ Implementé el patrón Page Object Model (POM) para separar la lógica de págin
 Configuré la ejecución de tests con Pytest.
 Documenté el proyecto con instrucciones claras en este README.md.
 
-  ![Urban Routes](./Captura_Demo.png)
+  ![Vista previa](./Captura_Demo.png)
 
  **Repositorio:** [Automatización de Pruebas de Login en OrangeHRM Demo](https://github.com/Francis2040/Test-de-Login-OrangeHRM-Demo)
  
