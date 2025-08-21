@@ -5,9 +5,6 @@
   <img decoding="async" src="https://github.com/Francis2040/Francis2040/blob/main/banner.png/Banner.png" width="800"/>
 </div>
 
-<p align="center">
-  <img src="avatar.png" alt="Francis Anahole" width="200" height="200">
-</p>
 👩‍💻 Soy **Francis Anahole**, QA Engineer en transición desde el área administrativa.  
 ✅ Sé diseñar y ejecutar **pruebas manuales y automatizadas**, trabajar con **Selenium, Pytest, SQL y Postman**, y reportar defectos de manera clara.  
 🚀 Puedo ayudar a equipos de desarrollo y empresas a entregar aplicaciones más confiables, detectando errores antes de que lleguen al usuario final.  
