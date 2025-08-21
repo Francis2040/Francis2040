@@ -59,9 +59,10 @@ WebDriver Manager – Configuración automática del driver de Chrome
 Diseñé y desarrollé los scripts de prueba automatizados.
 Implementé el patrón Page Object Model (POM) para separar la lógica de páginas y pruebas.
 Configuré la ejecución de tests con Pytest.
-Documenté el proyecto con instrucciones claras en este README.md.
 
-  ![Vista previa](./Captura_Demo.png)
+## 📸 Captura de pantalla
+
+  ![Vista previa](https://github.com/Francis2040/Francis2040/blob/main/Captura%20de%20pantalla%202025-08-21%20104527.png)
 
  **Repositorio:** [Automatización de Pruebas de Login en OrangeHRM Demo](https://github.com/Francis2040/Test-de-Login-OrangeHRM-Demo)
  
