@@ -56,11 +56,11 @@ WebDriver Manager – Configuración automática del driver de Chrome
 
 **Mi aporte** 
 
-Diseñé y desarrollé los scripts de prueba automatizados.
+-Diseñé y desarrollé los scripts de prueba automatizados.
 
-Implementé el patrón Page Object Model (POM) para separar la lógica de páginas y pruebas.
+-Implementé el patrón Page Object Model (POM) para separar la lógica de páginas y pruebas.
 
-Configuré la ejecución de tests con Pytest.
+-Configuré la ejecución de tests con Pytest.
 
 ## 📸 Captura de pantalla
 
@@ -80,7 +80,7 @@ Garantizar que todos los pasos de solicitud de taxi funcionen correctamente: des
   <img src="https://img.shields.io/badge/Page%20Object%20Model-POM-blue?style=for-the-badge" alt="POM"/>
 </p>
 
-**Mi rol**  
+**Mi Aporte**  
 - Creé y mantuve toda la suite de pruebas automatizadas.  
 - Implementé estructura modular con POM (páginas, utilidades, tests).  
 - Configuré datos de prueba y validé flujos end-to-end.
@@ -105,7 +105,7 @@ Me encargué de automatizar la funcionalidad de agregar y eliminar tarjetas en l
   <img src="https://img.shields.io/badge/Page%20Object%20Model-POM-blue?style=for-the-badge" alt="POM"/>
 </p>
 
- **Mi rol**
+ **Mi Aporte**
 - Diseñé e implementé la lógica completa de automatización para agregar y eliminar tarjetas dinámicamente.  
 - Estructuré el proyecto usando POM para facilitar mantenibilidad y legibilidad del código.  
 - Gestioné casos de prueba con datos reales y validé el flujo completo de la interfaz de usuario de Around.
@@ -145,7 +145,7 @@ Este proyecto permite la creación de kits personalizados para usuarios específ
   </a>
 </p>
 
-**Mi rol**
+**Mi Aporte**
 
 Diseñé y ejecuté las pruebas automatizadas.
 
