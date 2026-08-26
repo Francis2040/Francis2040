@@ -1,4 +1,4 @@
-<h1 align="center">Francis Anahole</h1>
+<h1 align="center">Francis - Anahole</h1>
 
 <div id="header" align="center">
   <img decoding="async" src="https://github.com/FrancisAnahole/FrancisAnahole/blob/main/banner.png/Banner.png" width="800"/>
