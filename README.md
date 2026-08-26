@@ -1,7 +1,7 @@
 <h1 align="center">Francis Anahole</h1>
 
 <div id="header" align="center">
-  <img decoding="async" src="https://github.com/Francis2040/Francis2040/blob/main/banner.png/Banner.png" width="800"/>
+  <img decoding="async" src="https://github.com/FrancisAnahole/FrancisAnahole/blob/main/banner.png/Banner.png" width="800"/>
 </div>
 <p align="center">
   <a href="https://www.linkedin.com/in/francis-anahole/">
@@ -13,7 +13,6 @@
   <a href="https://github.com/FrancisAnahole">
     <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-  <a href="https://drive.google.com/tu-link-de-cv" target="_blank">
     <a href="https://docs.google.com/document/d/1KdWM7GDKW3WIpNjrB0evANzvv2nJyfM6loEG8tImsXI/edit?usp=sharing" target="_blank">
   <img src="https://img.shields.io/badge/CV-%230A66C2.svg?style=for-the-badge&logo=googledrive&logoColor=white" alt="CV"/>
 </a>
