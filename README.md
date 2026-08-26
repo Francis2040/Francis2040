@@ -1,5 +1,4 @@
-<h1 align="center">Francis  Anahole</h1>
-<h3 align="center">QA Engineer | Pruebas Manuales</h3>
+<h1 align="center">Francis Anahole</h1>
 
 <div id="header" align="center">
   <img decoding="async" src="https://github.com/Francis2040/Francis2040/blob/main/banner.png/Banner.png" width="800"/>
